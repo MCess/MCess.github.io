@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Pearing 
+subtitle: Anonymous Pairing Feedback
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2017-05-01
+img: Pearing.gif
+thumbnail: Pearing_favicon.ico
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: May 2017
+client: Code Platoon
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A group project that included building a web-based application that allows anonymous feedback for and from programming pairing partners. The technologies used were Ruby on Rails, React, Postgresql, Heroku, and Git. 
 
 ---

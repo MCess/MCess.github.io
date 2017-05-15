@@ -1,6 +1,6 @@
 ---
 title: Pearing 
-subtitle: Anonymous Pairing Feedback
+subtitle: Anonymous Paired Programming Feedback
 layout: default
 modal-id: 1
 date: 2017-05-01

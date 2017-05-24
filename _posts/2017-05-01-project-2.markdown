@@ -1,0 +1,15 @@
+---
+title: VetFinder 
+subtitle: Rate and review Veteran's Services
+layout: default
+modal-id: 2
+date: 2017-04-01
+img: VetFinder.jpg
+thumbnail: VetFinder.jpg
+alt: image-alt
+project-date: April 2017
+client: Code Platoon
+category: Web Development
+description: A solo project to build web-based application that allows reviews for Veteran's Services across Chicago.  Users can submit text feedback and numerical ratings, which are displayed on each organizations page as average rating. The technologies used were Ruby on Rails, Postgresql and Git. 
+
+---
